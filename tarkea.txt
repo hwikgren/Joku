@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Jotain muokattua tekstia
+=======
+
+Lisaa tekstia
+>>>>>>> toka
